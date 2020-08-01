@@ -3,8 +3,8 @@
 src="https://emmaisworking.dev/static/images/GitHubCover.png" alt="Markdown Monster icon" style="float: left; margin-bottom: 30px;" />
   <h1 style="color:#282828">Emmanuel Garcia 🇲🇽 | @emmaIsWorking</h1>
   <div style="margin:5px 10px 50px 0px">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/emmaisworking?label=follow%20me%21&style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/emmaisworking?style=social">
+<a href="https://twitter.com/emmaisworking" alt="my twitter link"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/emmaisworking?style=social"></a>
+<a href="https://github.com/emmaisworking" alt="my twitter link"><img alt="GitHub followers" src="https://img.shields.io/github/followers/emmaisworking?style=social"></a>
 </div>
   <h2 style="color:#282828"><bold>About me:</bold></h2>
 <p style="font-size:16px; color:#282828">
