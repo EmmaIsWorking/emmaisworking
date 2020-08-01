@@ -43,6 +43,7 @@ I am a front end developer with knowledge in UI and UX 🖌. I am an orderly and
 <div style="color:#282828"> 
 <ul>
 <li><a href="https://www.behance.net/EmmaIsWorking">LinkedIn</a></li>
+  <li><a href="https://gitlab.com/EmmaIsWorking">GitLab</a></li>
 <li><a href="https://www.behance.net/EmmaIsWorking">Behance</a></li>
 <li><a href="https://twitter.com/emmaisworking">Twitter</a></li>
 <li><a href="https://www.instagram.com/emmaIsWorking/">Instagram</a></li>
