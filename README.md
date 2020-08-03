@@ -11,6 +11,7 @@ src="https://emmaisworking.dev/static/images/GitHubCover.png" alt="Markdown Mons
 I like to create experiences that balance 🧘🏽‍♂️ between creativity and functionality .
 I am a front end developer with knowledge in UI and UX 🖌. I am an orderly and disciplined person who seeks to provide the best user experience through web applications..
 </p>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emmaisworking&hide=contribs,prs)
 <table style="width:100%">
   <tr>
     <td style="color:#282828">
